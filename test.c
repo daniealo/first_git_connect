@@ -1,7 +1,9 @@
 #include <stdio.h>
-#include <stulib.h>
+#include <stdlib.h>
 
-void main()
-//
+int main()
+{
 
-//
+    //return(0);
+}
+;
